@@ -31,10 +31,7 @@ I'm passionate about building intelligent solutions using **Machine Learning**, 
 - Python
 - Java (Basics)
 - SQL
-- HTML
-- CSS
-- JavaScript
-
+- 
 ### 🤖 AI, Machine Learning & Deep Learning
 - Scikit-learn
 - TensorFlow
