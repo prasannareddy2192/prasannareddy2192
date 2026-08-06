@@ -79,27 +79,11 @@ Developed an end-to-end Machine Learning pipeline to predict patient emergency r
 
 **Tech Stack:** Python, Scikit-learn, Random Forest, FastAPI, REST API, Pydantic, Joblib, Docker, Uvicorn
 
----
-
-### 🧠 Brain Tumor Classification
-Developed a deep learning model for brain tumor classification using CNN architectures with image preprocessing and model evaluation techniques.
-
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, NumPy
-
----
-
-### ❤️ ECG Arrhythmia Classification
-Built a deep learning model for ECG signal classification using the MIT-BIH dataset to classify different types of cardiac arrhythmias.
-
-**Tech Stack:** Python, TensorFlow, NumPy, Pandas, Matplotlib
-
----
-
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced Deep Learning
-- Machine Learning Deployment
+- 
+- agentic ai
 - AI System Design
 
 ---
