@@ -93,7 +93,7 @@ A FastAPI application that converts natural language into SQL queries using an L
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannareddy2192&theme=default" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=prasannareddy2192&theme=default" width="70%" />
 </p>
 
 ---
