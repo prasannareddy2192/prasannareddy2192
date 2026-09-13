@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sai Prasanna Gedela 👋</h1>
-<h3 align="center">Aspiring AI Engineer | Final-Year IT Student | Building Real Generative AI Systems</h3>
+<h3 align="center">Aspiring AI Engineer | Final-Year IT Student specializing in Machine Learning, Deep Learning & Generative AI | Building LLM-Powered Systems, AI Agents & MCP Servers</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-prasanna-gedela-19aa22306">
@@ -70,31 +70,6 @@ A FastAPI application that converts natural language into SQL queries using an L
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat)
-
----
-
-### 📌 Project Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasannareddy2192&repo=ai-landscape-tracker&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasannareddy2192&repo=github-intelligence-mcp&theme=default" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasannareddy2192&repo=sql-assistant&theme=default" width="48%" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasannareddy2192&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannareddy2192&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prasannareddy2192&theme=default" width="70%" />
-</p>
 
 ---
 
